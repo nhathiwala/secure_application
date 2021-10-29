@@ -1,3 +1,7 @@
+## 3.7.3+1
+
+* [UPGRADE] Bump up `rxdart` version. 
+
 ## 3.7.3
 
 * [BUGFIX] nativeRemoveDelay is null and that makes the app crash ( #16 )
